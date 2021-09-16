@@ -1,0 +1,18 @@
+.clear{
+    background: url("") no-repeat center;
+}
+.rain{
+    background: url("") no-repeat center;
+}
+.clouds{
+    background: url("") no-repeat center;
+}
+
+h2{
+    position: absolute;
+    color: wheat;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    top: 5%;
+}

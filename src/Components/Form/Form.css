@@ -1,0 +1,37 @@
+input{
+    width: 40%;
+    background-color: wheat;
+    color: teal;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    /* border: 1px solid wheat */
+}
+button{
+    width: 15%;
+    background-color: wheat;
+    color: teal;
+    height: 42px;
+    border: none;
+    border-radius: 20px;
+}
+/* body{
+    background: url('https://ak.picdn.net/shutterstock/videos/3624260/thumb/1.jpg') no-repeat center;
+    background-size: 100%;
+} */
+iframe{
+    margin-left: 40%;
+    margin-top: 5%;
+    border-radius: 20%;
+    box-shadow:10px 10px -10px -10px #888888;
+    border: violet;
+   
+
+}
+.searchBar{
+    position: absolute;
+    width: 50%;
+    margin-left: 35%;
+    margin-top: 8%;
+    z-index: 5;
+}
